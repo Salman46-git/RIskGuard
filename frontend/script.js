@@ -3,7 +3,7 @@
 // ============================================================
 
 // FastAPI backend
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = "https://riskguard-xvhw.onrender.com";
 
 
 // Store transactions in memory
